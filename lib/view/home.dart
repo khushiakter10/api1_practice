@@ -14,7 +14,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          "product list",
+          "raju vaiya",
           style: TextStyle(color: Colors.purple),
         ),
         centerTitle: true,
